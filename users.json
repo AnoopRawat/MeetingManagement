@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "empId" : 1,
+            "email": "anoop@rawat.com",
+            "name": "Anoop Rawat"
+        },
+        {
+            "empId" : 2,
+            "email": "anoop@rawat.com",
+            "name": "Anoop Rawat1"
+        },
+        {
+            "empId" : 3,
+            "email": "anoop@rawat.com",
+            "name": "Anoop Rawat2"
+        }
+    ]
+}
